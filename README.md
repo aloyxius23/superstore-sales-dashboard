@@ -14,23 +14,33 @@ An interactive Power BI sales performance dashboard analysing 9,994 orders from 
 
 ## Key Findings
 **1. Technology is the strongest business driver.**
+
 Technology outperforms all other categories in both revenue ($836K) and profit ($145K), achieving a substantially higher profit margin (17.3%) compared to Furniture (2.4%) and Office Supplies (17.0%). Copiers alone generate $56K in profit. 
+
 **Insight:** Technology should remain a strategic growth priority. 
 
 **2. Furniture generates strong sales but weak profitability.**
+
 Furniture is the second highest revenue category at $742K but produces a disproportionately low profit at $18K (2.4% profit margin). Tables alone show major losses despite high sales volume ($207K in sales and an $18K loss).
+
 **Insight:** Revenue alone does not equal business health; pricing and discount strategies require reassessment. 
 
 **3. Heavy discounting can reduce profitability.**
+
 Sub-categories with average discounts exceeding 20% tend to generate losses, with Tables recording losses of $18K and Bookcases $3.5K. Binders, however, stand out as an exception, generating $30K in profit despite having an average discount of 40%.
+
 **Insight:** Discounting should be strategically targeted, not broadly applied. 
 
 **4. West region is the top-performing market.**
+
 The West delivers the highest total profit ($108K), outperforming Central by nearly three times ($40K). 
+
 **Insight:** Regional best practices from the West may be scalable to weaker markets. 
 
 **5. Q4 consistently outperforms all other quarters.**
+
 Sales spike significantly from August to December, with November and December performing best. February is consistently the weakest month.
+
 **Insight:** Effective seasonal forecasting, inventory planning, and strategic marketing investment are essential to capitalising on peak sales periods. 
 
 ## Strategic Recommendations 
