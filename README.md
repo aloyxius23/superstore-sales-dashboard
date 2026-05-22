@@ -49,7 +49,7 @@ Sales spike significantly from August to December, with November and December pe
 - Clear Filters/Reset button
 
 ## Dashboard 
-![Dashboard](
+![Dashboard](superstore_dashboard.png)
 ## Conclusion 
 This dashboard demonstrates how business intelligence tools like Power BI can convert large retail datasets into practical strategic insights. Beyond reporting historical sales, it enables decision-makers to identify profitable opportunities, operational inefficiencies, and category-specific risks, which ultimately support  smarter, data-driven business growth. 
 
