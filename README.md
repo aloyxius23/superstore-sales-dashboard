@@ -30,7 +30,7 @@ The West delivers the highest total profit ($108K), outperforming Central by nea
 **Insight:** Regional best practices from the West may be scalable to weaker markets. 
 
 **5. Q4 consistently outperforms all other quarters.**
-Sales spike significantly from August to December, with November and December performing best. February is consistently the weakest month. 
+Sales spike significantly from August to December, with November and December performing best. February is consistently the weakest month.
 **Insight:** Effective seasonal forecasting, inventory planning, and strategic marketing investment are essential to capitalising on peak sales periods. 
 
 ## Strategic Recommendations 
